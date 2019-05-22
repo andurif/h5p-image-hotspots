@@ -9,19 +9,19 @@
       "description": "Si le navigateur ne peut pas charger l'image, ce texte sera affiché à la place. Également utilisé par les technologies d'accessibilité."
     },
     {
-      "label": "Hotspot Icon",
+      "label": "Icône Hotspot",
       "options": [
         {
-          "label": "Predefined icon"
+          "label": "Icône prédéfinie"
         },
         {
-          "label": "Uploaded image"
+          "label": "Image déposée"
         }
       ]
     },
     {
-      "label": "Predefined icon",
-      "description": "Using a predefined icon for the hotspot.",
+      "label": "Icône prédéfinie",
+      "description": "Utiliser une icône prédéfinie pour l'hotspot.",
       "options": [
         {
           "label": "Plus"
@@ -47,8 +47,8 @@
       ]
     },
     {
-      "label": "Uploaded image",
-      "description": "Use your own image for the hotspot icon.<br>75px by 75px is recommended for your image."
+      "label": "Image déposée",
+      "description": "Utiliser votre image comme icône pour l'hotspot.<br>La taille 75px par 75px est recommandée pour votre image."
     },
     {
       "label": "Couleur de la puce cliquable",
